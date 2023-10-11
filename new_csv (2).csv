@@ -1,0 +1,676 @@
+name,album,track_number,acousticness,danceability,energy,valence,popularity,category
+Taxman - 2022 Mix,Revolver (Super Deluxe),1,0.00225,0.484,0.771,0.679,57,0
+Eleanor Rigby - 2022 Mix,Revolver (Super Deluxe),2,0.853,0.606,0.304,0.808,62,0
+I'm Only Sleeping - 2022 Mix,Revolver (Super Deluxe),3,0.0944,0.559,0.479,0.658,57,0
+Love You To - 2022 Mix,Revolver (Super Deluxe),4,0.706,0.46,0.6,0.679,54,0
+"Here, There And Everywhere - 2022 Mix",Revolver (Super Deluxe),5,0.87,0.345,0.304,0.425,55,0
+Yellow Submarine - 2022 Mix,Revolver (Super Deluxe),6,0.391,0.623,0.573,0.794,54,0
+She Said She Said - 2022 Mix,Revolver (Super Deluxe),7,0.0515,0.397,0.886,0.785,55,0
+Good Day Sunshine - 2022 Mix,Revolver (Super Deluxe),8,0.605,0.787,0.552,0.746,54,0
+And Your Bird Can Sing - 2022 Mix,Revolver (Super Deluxe),9,0.00389,0.543,0.801,0.969,54,0
+For No One - 2022 Mix,Revolver (Super Deluxe),10,0.808,0.433,0.535,0.751,54,0
+Doctor Robert - 2022 Mix,Revolver (Super Deluxe),11,0.0531,0.41,0.718,0.562,53,0
+I Want To Tell You - 2022 Mix,Revolver (Super Deluxe),12,0.0972,0.512,0.59,0.437,53,0
+Got To Get You Into My Life - 2022 Mix,Revolver (Super Deluxe),13,0.221,0.526,0.629,0.645,53,0
+Tomorrow Never Knows - 2022 Mix,Revolver (Super Deluxe),14,3.65e-05,0.215,0.657,0.0381,54,0
+Tomorrow Never Knows - Take 1,Revolver (Super Deluxe),1,0.0357,0.426,0.815,0.199,51,0
+Tomorrow Never Knows - Mono Mix RM 11,Revolver (Super Deluxe),2,0.00349,0.306,0.71,0.205,48,0
+Got To Get You Into My Life - First Version / Take 5,Revolver (Super Deluxe),3,0.349,0.502,0.499,0.295,49,0
+Got To Get You Into My Life - Second Version / Unnumbered Mix,Revolver (Super Deluxe),4,0.142,0.527,0.702,0.517,51,0
+Got To Get You Into My Life - Second Version / Take 8,Revolver (Super Deluxe),5,0.00551,0.538,0.503,0.564,47,0
+Love You To - Take 1,Revolver (Super Deluxe),6,0.757,0.735,0.29,0.41,47,0
+Love You To - Unnumbered Rehearsal,Revolver (Super Deluxe),7,0.378,0.436,0.427,0.785,46,0
+Love You To - Take 7,Revolver (Super Deluxe),8,0.719,0.376,0.584,0.849,45,0
+Paperback Writer - Takes 1 & 2 / Backing Track,Revolver (Super Deluxe),9,0.301,0.582,0.75,0.618,48,0
+Rain - Take 5 / Actual Speed,Revolver (Super Deluxe),10,0.000176,0.253,0.712,0.704,49,0
+Rain - Take 5 / Slowed Down For Master Tape,Revolver (Super Deluxe),11,0.00041,0.266,0.523,0.599,47,0
+Doctor Robert - Take 7,Revolver (Super Deluxe),12,0.139,0.497,0.567,0.695,46,0
+And Your Bird Can Sing - First Version / Take 2,Revolver (Super Deluxe),13,0.000342,0.391,0.718,0.862,47,0
+And Your Bird Can Sing - First Version / Take 2 / Giggling,Revolver (Super Deluxe),14,0.00322,0.378,0.607,0.737,46,0
+And Your Bird Can Sing - Second Version / Take 5,Revolver (Super Deluxe),1,0.00151,0.446,0.555,0.547,46,0
+Taxman - Take 11,Revolver (Super Deluxe),2,0.0104,0.504,0.663,0.786,45,0
+I’m Only Sleeping - Rehearsal Fragment,Revolver (Super Deluxe),3,0.871,0.721,0.132,0.265,46,0
+I’m Only Sleeping - Take 2,Revolver (Super Deluxe),4,0.511,0.581,0.346,0.401,46,0
+I’m Only Sleeping - Take 5,Revolver (Super Deluxe),5,0.0257,0.635,0.666,0.599,45,0
+I’m Only Sleeping - Mono Mix RM1,Revolver (Super Deluxe),6,0.175,0.525,0.466,0.608,44,0
+Eleanor Rigby - Speech Before Take 2,Revolver (Super Deluxe),7,0.797,0.608,0.177,0.372,45,0
+Eleanor Rigby - Take 2,Revolver (Super Deluxe),8,0.944,0.533,0.0987,0.421,46,0
+For No One - Take 10 / Backing Track,Revolver (Super Deluxe),9,0.617,0.429,0.745,0.708,45,0
+Yellow Submarine - Songwriting Work Tape / Part 1,Revolver (Super Deluxe),10,0.994,0.539,0.196,0.799,47,0
+Yellow Submarine - Songwriting Work Tape / Part 2,Revolver (Super Deluxe),11,0.994,0.434,0.245,0.202,46,0
+Yellow Submarine - Take 4 Before Sound Effects,Revolver (Super Deluxe),12,0.638,0.722,0.4,0.732,44,0
+Yellow Submarine - Highlighted Sound Effects,Revolver (Super Deluxe),13,0.653,0.554,0.642,0.651,43,0
+I Want To Tell You - Speech & Take 4,Revolver (Super Deluxe),14,0.793,0.71,0.492,0.208,43,0
+"Here, There And Everywhere - Take 6",Revolver (Super Deluxe),15,0.852,0.685,0.23,0.406,46,0
+She Said She Said - John's Demo,Revolver (Super Deluxe),16,0.937,0.758,0.325,0.635,45,0
+She Said She Said - Take 15 / Backing Track Rehearsal,Revolver (Super Deluxe),17,0.00522,0.442,0.604,0.593,44,0
+Taxman - Mono,Revolver (Super Deluxe),1,0.0722,0.467,0.604,0.773,42,0
+Eleanor Rigby - Mono,Revolver (Super Deluxe),2,0.954,0.572,0.256,0.895,41,0
+I'm Only Sleeping - Mono,Revolver (Super Deluxe),3,0.542,0.488,0.436,0.659,41,0
+Love You To - Mono,Revolver (Super Deluxe),4,0.637,0.369,0.494,0.715,40,0
+"Here, There And Everywhere - Mono",Revolver (Super Deluxe),5,0.866,0.545,0.238,0.388,40,0
+Get Back - Rooftop Performance / Take 1,Get Back (Rooftop Performance),1,0.325,0.628,0.524,0.272,43,0
+Get Back - Rooftop Performance / Take 2,Get Back (Rooftop Performance),2,0.101,0.655,0.695,0.33,49,0
+Don't Let Me Down - Rooftop Performance / Take 1,Get Back (Rooftop Performance),3,0.321,0.592,0.513,0.744,45,0
+I've Got A Feeling - Rooftop Performance / Take 1,Get Back (Rooftop Performance),4,0.155,0.392,0.629,0.352,43,0
+One After 909 - Rooftop Performance,Get Back (Rooftop Performance),5,0.0254,0.521,0.87,0.723,40,0
+Dig A Pony - Rooftop Performance,Get Back (Rooftop Performance),6,0.454,0.49,0.373,0.346,40,0
+God Save The Queen - Rooftop Performance / Jam,Get Back (Rooftop Performance),7,0.675,0.676,0.389,0.898,4,0
+I've Got A Feeling - Rooftop Performance / Take 2,Get Back (Rooftop Performance),8,0.346,0.521,0.532,0.313,38,0
+Don't Let Me Down - Rooftop Performance / Take 2,Get Back (Rooftop Performance),9,0.272,0.548,0.489,0.605,39,0
+Get Back - Rooftop Performance / Take 3,Get Back (Rooftop Performance),10,0.0833,0.617,0.633,0.315,38,0
+Two Of Us - 2021 Mix,Let It Be (Super Deluxe),1,0.0356,0.692,0.756,0.826,44,0
+Dig A Pony - 2021 Mix,Let It Be (Super Deluxe),2,0.183,0.461,0.5,0.393,43,0
+Across The Universe - 2021 Mix,Let It Be (Super Deluxe),3,0.552,0.414,0.467,0.752,45,0
+I Me Mine - 2021 Mix,Let It Be (Super Deluxe),4,0.14,0.423,0.587,0.575,43,0
+Dig It - 2021 Mix,Let It Be (Super Deluxe),5,0.452,0.519,0.564,0.795,38,0
+Let It Be - 2021 Mix,Let It Be (Super Deluxe),6,0.332,0.407,0.413,0.556,46,0
+Maggie Mae - 2021 Mix,Let It Be (Super Deluxe),7,0.247,0.525,0.627,0.76,38,0
+I've Got A Feeling - 2021 Mix,Let It Be (Super Deluxe),8,0.11,0.413,0.722,0.382,45,0
+One After 909 - 2021 Mix,Let It Be (Super Deluxe),9,0.0632,0.545,0.956,0.776,40,0
+The Long And Winding Road - 2021 Mix,Let It Be (Super Deluxe),10,0.82,0.314,0.379,0.319,43,0
+For You Blue - 2021 Mix,Let It Be (Super Deluxe),11,0.349,0.854,0.605,0.929,39,0
+Get Back - 2021 Mix,Let It Be (Super Deluxe),12,0.176,0.734,0.656,0.366,43,0
+Morning Camera / Two Of Us - Take 4,Let It Be (Super Deluxe),1,0.053,0.718,0.671,0.762,36,0
+Maggie Mae / Fancy My Chances With You - Mono,Let It Be (Super Deluxe),2,0.717,0.622,0.544,0.803,36,0
+Can You Dig It?,Let It Be (Super Deluxe),3,0.215,0.635,0.864,0.717,35,0
+I Don't Know Why I'm Moaning - Speech / Mono,Let It Be (Super Deluxe),4,0.916,0.582,0.457,0.488,34,0
+For You Blue - Take 4,Let It Be (Super Deluxe),5,0.24,0.709,0.809,0.784,34,0
+Let It Be / Please Please Me / Let It Be - Take 10,Let It Be (Super Deluxe),6,0.905,0.494,0.424,0.481,37,0
+I’ve Got A Feeling - Take 10,Let It Be (Super Deluxe),7,0.143,0.399,0.622,0.306,34,0
+Dig A Pony - Take 14,Let It Be (Super Deluxe),8,0.661,0.53,0.399,0.376,33,0
+Get Back - Take 19,Let It Be (Super Deluxe),9,0.439,0.74,0.619,0.633,33,0
+Like Making An Album? - Speech,Let It Be (Super Deluxe),10,0.789,0.62,0.18,0.641,31,0
+One After 909 - Take 3,Let It Be (Super Deluxe),11,0.0451,0.293,0.891,0.706,32,0
+Don’t Let Me Down - First Rooftop Performance,Let It Be (Super Deluxe),12,0.699,0.455,0.502,0.674,53,0
+The Long And Winding Road - Take 19,Let It Be (Super Deluxe),13,0.868,0.516,0.319,0.237,33,0
+Wake Up Little Susie / I Me Mine - Take 11,Let It Be (Super Deluxe),14,0.401,0.409,0.508,0.376,32,0
+On The Day Shift Now / All Things Must Pass - Rehearsals / Mono,Let It Be (Super Deluxe),1,0.863,0.492,0.453,0.428,31,0
+Concentrate On The Sound - Mono,Let It Be (Super Deluxe),2,0.977,0.543,0.451,0.467,30,0
+Gimme Some Truth - Rehearsal / Mono,Let It Be (Super Deluxe),3,0.834,0.616,0.319,0.35,31,0
+I Me Mine - Rehearsal / Mono,Let It Be (Super Deluxe),4,0.797,0.34,0.536,0.673,32,0
+She Came In Through The Bathroom Window - Rehearsal,Let It Be (Super Deluxe),5,0.713,0.531,0.29,0.336,32,0
+Polythene Pam - Rehearsal / Mono,Let It Be (Super Deluxe),6,0.916,0.568,0.57,0.783,30,0
+Octopus’s Garden - Rehearsal / Mono,Let It Be (Super Deluxe),7,0.919,0.406,0.345,0.411,31,0
+Oh! Darling - Jam,Let It Be (Super Deluxe),8,0.448,0.603,0.471,0.31,32,0
+Get Back - Take 8,Let It Be (Super Deluxe),9,0.369,0.737,0.672,0.367,37,0
+The Walk - Jam,Let It Be (Super Deluxe),10,0.568,0.75,0.67,0.662,29,0
+Without A Song - Jam,Let It Be (Super Deluxe),11,0.875,0.574,0.396,0.428,33,0
+Something - Rehearsal / Mono,Let It Be (Super Deluxe),12,0.893,0.529,0.346,0.288,30,0
+Let It Be - Take 28,Let It Be (Super Deluxe),13,0.433,0.419,0.448,0.339,31,0
+One After 909 - 1969 Glyn Johns Mix,Let It Be (Super Deluxe),1,0.00752,0.494,0.872,0.889,29,0
+Medley: I’m Ready (aka Rocker) / Save The Last Dance For Me / Don’t Let Me Down - 1969 Glyn Johns Mix,Let It Be (Super Deluxe),2,0.75,0.53,0.44,0.818,30,0
+Don't Let Me Down - 1969 Glyn Johns Mix,Let It Be (Super Deluxe),3,0.723,0.469,0.342,0.515,33,0
+Dig A Pony - 1969 Glyn Johns Mix,Let It Be (Super Deluxe),4,0.73,0.481,0.314,0.416,29,0
+I've Got A Feeling - 1969 Glyn Johns Mix,Let It Be (Super Deluxe),5,0.708,0.502,0.543,0.635,30,0
+Get Back - 1969 Glyn Johns Mix,Let It Be (Super Deluxe),6,0.577,0.711,0.528,0.296,30,0
+For You Blue - 1969 Glyn Johns Mix,Let It Be (Super Deluxe),7,0.696,0.734,0.516,0.823,32,0
+Teddy Boy - 1969 Glyn Johns Mix,Let It Be (Super Deluxe),8,0.713,0.629,0.424,0.667,29,0
+Two Of Us - 1969 Glyn Johns Mix,Let It Be (Super Deluxe),9,0.543,0.704,0.514,0.753,29,0
+Maggie Mae - 1969 Glyn Johns Mix,Let It Be (Super Deluxe),10,0.396,0.453,0.452,0.585,27,0
+Dig It - 1969 Glyn Johns Mix,Let It Be (Super Deluxe),11,0.643,0.391,0.517,0.842,30,0
+Come Together - 2019 Mix,Abbey Road (Super Deluxe Edition),1,0.0823,0.536,0.36,0.147,49,0
+Something - 2019 Mix,Abbey Road (Super Deluxe Edition),2,0.0958,0.416,0.385,0.458,47,0
+Maxwell's Silver Hammer - 2019 Mix,Abbey Road (Super Deluxe Edition),3,0.497,0.816,0.386,0.708,42,0
+Oh! Darling - 2019 Mix,Abbey Road (Super Deluxe Edition),4,0.0344,0.437,0.669,0.514,51,0
+Octopus's Garden - 2019 Mix,Abbey Road (Super Deluxe Edition),5,0.113,0.565,0.645,0.626,44,0
+I Want You (She's So Heavy) - 2019 Mix,Abbey Road (Super Deluxe Edition),6,0.0208,0.326,0.5,0.365,44,0
+Here Comes The Sun - 2019 Mix,Abbey Road (Super Deluxe Edition),7,0.038,0.569,0.557,0.292,51,0
+Because - 2019 Mix,Abbey Road (Super Deluxe Edition),8,0.613,0.178,0.283,0.19,41,0
+You Never Give Me Your Money - 2019 Mix,Abbey Road (Super Deluxe Edition),9,0.317,0.33,0.442,0.326,43,0
+Sun King - 2019 Mix,Abbey Road (Super Deluxe Edition),10,0.186,0.406,0.274,0.199,41,0
+Mean Mr Mustard - 2019 Mix,Abbey Road (Super Deluxe Edition),11,0.0254,0.69,0.674,0.915,41,0
+Polythene Pam - 2019 Mix,Abbey Road (Super Deluxe Edition),12,0.00203,0.47,0.833,0.491,41,0
+She Came In Through The Bathroom Window - 2019 Mix,Abbey Road (Super Deluxe Edition),13,0.00307,0.527,0.752,0.738,42,0
+Golden Slumbers - 2019 Mix,Abbey Road (Super Deluxe Edition),14,0.303,0.395,0.181,0.221,44,0
+Carry That Weight - 2019 Mix,Abbey Road (Super Deluxe Edition),15,0.0915,0.494,0.558,0.625,42,0
+The End - 2019 Mix,Abbey Road (Super Deluxe Edition),16,0.00045,0.624,0.532,0.125,41,0
+Her Majesty - 2019 Mix,Abbey Road (Super Deluxe Edition),17,0.647,0.742,0.182,0.565,9,0
+I Want You (She's So Heavy) - Trident Recording Session & Reduction Mix,Abbey Road (Super Deluxe Edition),1,0.13,0.36,0.383,0.373,36,0
+Goodbye - Home Demo,Abbey Road (Super Deluxe Edition),2,0.918,0.556,0.174,0.563,42,0
+Something - Studio Demo,Abbey Road (Super Deluxe Edition),3,0.955,0.408,0.187,0.243,38,0
+The Ballad Of John And Yoko - Take 7,Abbey Road (Super Deluxe Edition),4,0.0681,0.695,0.732,0.672,36,0
+Old Brown Shoe - Take 2,Abbey Road (Super Deluxe Edition),5,0.447,0.639,0.731,0.372,33,0
+Oh! Darling - Take 4,Abbey Road (Super Deluxe Edition),6,0.307,0.596,0.51,0.545,35,0
+Octopus's Garden - Take 9,Abbey Road (Super Deluxe Edition),7,0.0851,0.699,0.412,0.837,32,0
+You Never Give Me Your Money - Take 36,Abbey Road (Super Deluxe Edition),8,0.621,0.375,0.455,0.377,32,0
+Her Majesty - Takes 1-3,Abbey Road (Super Deluxe Edition),9,0.75,0.691,0.134,0.509,39,0
+Golden Slumbers / Carry That Weight - Takes 1-3 / Medley,Abbey Road (Super Deluxe Edition),10,0.674,0.561,0.202,0.235,37,0
+Here Comes The Sun - Take 9,Abbey Road (Super Deluxe Edition),11,0.0408,0.581,0.555,0.562,37,0
+Maxwell's Silver Hammer - Take 12,Abbey Road (Super Deluxe Edition),12,0.237,0.787,0.319,0.701,31,0
+Come Together - Take 5,Abbey Road (Super Deluxe Edition),1,0.096,0.598,0.314,0.277,33,0
+The End - Take 3,Abbey Road (Super Deluxe Edition),2,0.000927,0.671,0.42,0.539,30,0
+Come And Get It - Studio Demo,Abbey Road (Super Deluxe Edition),3,0.00356,0.572,0.405,0.494,33,0
+Sun King - Take 20,Abbey Road (Super Deluxe Edition),4,0.444,0.559,0.23,0.286,29,0
+Mean Mr. Mustard - Take 20,Abbey Road (Super Deluxe Edition),5,0.023,0.59,0.553,0.628,29,0
+Polythene Pam - Take 27,Abbey Road (Super Deluxe Edition),6,0.0734,0.479,0.708,0.518,29,0
+She Came In Through The Bathroom Window - Take 27,Abbey Road (Super Deluxe Edition),7,0.00673,0.594,0.681,0.858,30,0
+Because - Take 1 / Instrumental,Abbey Road (Super Deluxe Edition),8,0.458,0.328,0.381,0.2,29,0
+"The Long One - Comprising of ‘You Never Give Me Your Money’, ’Sun King’/’Mean Mr Mustard’, ‘Her Majesty’, ‘Polythene Pam’/’She Came In Through The Bathroom Window’, ’Golden Slumbers’/ ’Carry That Weight’, ’The End’",Abbey Road (Super Deluxe Edition),9,0.0565,0.403,0.425,0.243,36,0
+Something - Take 39 / Instrumental / Strings Only,Abbey Road (Super Deluxe Edition),10,0.79,0.0959,0.229,0.0677,32,0
+Golden Slumbers / Carry That Weight - Take 17 / Instrumental / Strings & Brass Only,Abbey Road (Super Deluxe Edition),11,0.829,0.178,0.218,0.15,30,0
+Back In The U.S.S.R. - 2018 Mix,The Beatles,1,0.00102,0.51,0.893,0.934,45,0
+Dear Prudence - 2018 Mix,The Beatles,2,0.0904,0.395,0.538,0.369,42,0
+Glass Onion - 2018 Mix,The Beatles,3,0.00236,0.529,0.555,0.615,38,0
+"Ob-La-Di, Ob-La-Da - 2018 Mix",The Beatles,4,0.149,0.803,0.776,0.969,47,0
+Wild Honey Pie - 2018 Mix,The Beatles,5,0.278,0.749,0.689,0.299,33,0
+The Continuing Story Of Bungalow Bill - 2018 Mix,The Beatles,6,0.295,0.659,0.56,0.738,35,0
+While My Guitar Gently Weeps - 2018 Mix,The Beatles,7,0.00196,0.421,0.668,0.635,48,0
+Happiness Is A Warm Gun - 2018 Mix,The Beatles,8,0.131,0.461,0.534,0.459,41,0
+Martha My Dear - 2018 Mix,The Beatles,9,0.788,0.641,0.328,0.858,39,0
+I'm So Tired - 2018 Mix,The Beatles,10,0.496,0.44,0.485,0.717,38,0
+Blackbird - 2018 Mix,The Beatles,11,0.825,0.649,0.123,0.358,47,0
+Piggies - 2018 Mix,The Beatles,12,0.2,0.527,0.471,0.571,34,0
+Rocky Raccoon - 2018 Mix,The Beatles,13,0.424,0.543,0.429,0.638,38,0
+Don't Pass Me By - 2018 Mix,The Beatles,14,0.472,0.598,0.58,0.961,34,0
+Why Don't We Do It In The Road? - 2018 Mix,The Beatles,15,0.493,0.532,0.524,0.845,35,0
+I Will - 2018 Mix,The Beatles,16,0.661,0.621,0.348,0.9,39,0
+Julia - 2018 Mix,The Beatles,17,0.849,0.399,0.091,0.185,37,0
+Birthday - 2018 Mix,The Beatles,1,2.27e-05,0.587,0.662,0.964,36,0
+Yer Blues - 2018 Mix,The Beatles,2,0.000652,0.328,0.608,0.48,36,0
+Mother Nature's Son - 2018 Mix,The Beatles,3,0.614,0.564,0.197,0.473,36,0
+Everybody's Got Something To Hide Except Me And My Monkey - 2018 Mix,The Beatles,4,0.00445,0.503,0.775,0.738,35,0
+Sexy Sadie - 2018 Mix,The Beatles,5,0.279,0.483,0.546,0.732,36,0
+Helter Skelter - 2018 Mix,The Beatles,6,0.000218,0.22,0.884,0.248,41,0
+"Long, Long, Long - 2018 Mix",The Beatles,7,0.35,0.337,0.23,0.106,34,0
+Revolution 1 - 2018 Mix,The Beatles,8,0.0974,0.37,0.674,0.583,34,0
+Honey Pie - 2018 Mix,The Beatles,9,0.893,0.592,0.357,0.489,34,0
+Savoy Truffle - 2018 Mix,The Beatles,10,0.00938,0.63,0.616,0.912,33,0
+Cry Baby Cry - 2018 Mix,The Beatles,11,0.129,0.481,0.475,0.489,34,0
+Revolution 9 - 2018 Mix,The Beatles,12,0.775,0.193,0.706,0.119,31,0
+Good Night - 2018 Mix,The Beatles,13,0.888,0.131,0.343,0.137,31,0
+Back In The U.S.S.R. - Esher Demo,The Beatles,1,0.756,0.658,0.53,0.557,32,0
+Dear Prudence - Esher Demo,The Beatles,2,0.655,0.387,0.266,0.271,32,0
+Glass Onion - Esher Demo,The Beatles,3,0.689,0.697,0.288,0.616,28,0
+"Ob-La-Di, Ob-La-Da - Esher Demo",The Beatles,4,0.403,0.76,0.601,0.549,34,0
+The Continuing Story Of Bungalow Bill - Esher Demo,The Beatles,5,0.642,0.594,0.357,0.494,27,0
+While My Guitar Gently Weeps - Esher Demo,The Beatles,6,0.835,0.503,0.321,0.36,33,0
+Happiness Is A Warm Gun - Esher Demo,The Beatles,7,0.771,0.587,0.18,0.186,28,0
+I'm So Tired - Esher Demo,The Beatles,8,0.756,0.473,0.285,0.42,29,0
+Blackbird - Esher Demo,The Beatles,9,0.699,0.585,0.272,0.388,31,0
+Piggies - Esher Demo,The Beatles,10,0.868,0.447,0.225,0.464,27,0
+Rocky Raccoon - Esher Demo,The Beatles,11,0.619,0.6,0.297,0.356,28,0
+Julia - Esher Demo,The Beatles,12,0.845,0.507,0.278,0.261,28,0
+Yer Blues - Esher Demo,The Beatles,13,0.374,0.567,0.467,0.643,28,0
+Mother Nature's Son - Esher Demo,The Beatles,14,0.835,0.356,0.324,0.331,27,0
+Everybody's Got Something To Hide Except Me And My Monkey - Esher Demo,The Beatles,15,0.131,0.678,0.587,0.704,26,0
+Sexy Sadie - Esher Demo,The Beatles,16,0.783,0.432,0.283,0.257,26,0
+Revolution - Esher Demo,The Beatles,17,0.294,0.723,0.383,0.569,30,0
+Honey Pie - Esher Demo,The Beatles,18,0.4,0.633,0.47,0.655,27,0
+Cry Baby Cry - Esher Demo,The Beatles,19,0.805,0.63,0.277,0.717,27,0
+Sour Milk Sea - Esher Demo,The Beatles,20,0.86,0.662,0.392,0.402,29,0
+Twist And Shout - Live / Remastered,Live At The Hollywood Bowl,1,7.81e-05,0.263,0.777,0.552,36,1
+She's A Woman - Live / Remastered,Live At The Hollywood Bowl,2,0.0072,0.36,0.882,0.538,28,1
+Dizzy Miss Lizzy - Live / Remastered,Live At The Hollywood Bowl,3,0.0116,0.418,0.87,0.732,30,1
+Ticket To Ride - Live / Remastered,Live At The Hollywood Bowl,4,0.0029,0.394,0.81,0.325,31,1
+Can't Buy Me Love - Live / Remastered,Live At The Hollywood Bowl,5,0.00891,0.358,0.854,0.624,32,1
+Things We Said Today - Live / Remastered,Live At The Hollywood Bowl,6,0.0669,0.305,0.627,0.488,28,1
+Roll Over Beethoven - Live / Remastered,Live At The Hollywood Bowl,7,0.00204,0.199,0.823,0.73,28,1
+Boys - Live / Remastered,Live At The Hollywood Bowl,8,0.0372,0.279,0.941,0.642,38,1
+A Hard Day's Night - Live / Remastered,Live At The Hollywood Bowl,9,0.0495,0.287,0.872,0.594,33,1
+Help! - Live / Remastered,Live At The Hollywood Bowl,10,0.024,0.286,0.77,0.538,31,1
+All My Loving - Live / Remastered,Live At The Hollywood Bowl,11,0.0203,0.203,0.663,0.725,30,1
+She Loves You - Live / Remastered,Live At The Hollywood Bowl,12,0.192,0.357,0.858,0.478,31,1
+Long Tall Sally - Live / Remastered,Live At The Hollywood Bowl,13,0.0285,0.38,0.908,0.652,29,1
+You Can't Do That - Live / Bonus Track,Live At The Hollywood Bowl,14,0.00224,0.432,0.705,0.677,27,1
+I Want To Hold Your Hand - Live / Bonus Track,Live At The Hollywood Bowl,15,0.0177,0.225,0.834,0.518,33,1
+Everybody’s Trying To Be My Baby - Live / Bonus Track,Live At The Hollywood Bowl,16,0.0548,0.191,0.896,0.728,24,1
+Baby's In Black - Live / Bonus Track,Live At The Hollywood Bowl,17,0.0183,0.202,0.756,0.669,26,1
+Get Back - Naked Version / Remastered 2013,Let It Be... Naked (Remastered),1,0.045,0.811,0.629,0.54,42,0
+Dig A Pony - Naked Version / Remastered 2013,Let It Be... Naked (Remastered),2,0.498,0.503,0.502,0.499,38,0
+For You Blue - Naked Version / Remastered 2013,Let It Be... Naked (Remastered),3,0.276,0.854,0.625,0.86,37,0
+The Long And Winding Road - Naked Version / Remastered 2013,Let It Be... Naked (Remastered),4,0.945,0.569,0.266,0.279,44,0
+Two Of Us - Naked Version / Remastered 2013,Let It Be... Naked (Remastered),5,0.157,0.699,0.74,0.913,42,0
+I've Got A Feeling - Naked Version / Remastered 2013,Let It Be... Naked (Remastered),6,0.0311,0.427,0.73,0.399,40,0
+One After 909 - Naked Version / Remastered 2013,Let It Be... Naked (Remastered),7,0.0376,0.408,0.894,0.866,36,0
+Don't Let Me Down - Naked Version / Remastered 2013,Let It Be... Naked (Remastered),8,0.147,0.486,0.489,0.783,45,0
+I Me Mine - Naked Version / Remastered 2013,Let It Be... Naked (Remastered),9,0.223,0.463,0.604,0.758,38,0
+Across The Universe - Naked Version / Remastered 2013,Let It Be... Naked (Remastered),10,0.509,0.359,0.461,0.794,43,0
+Let It Be - Naked Version / Remastered 2013,Let It Be... Naked (Remastered),11,0.565,0.47,0.404,0.468,43,0
+Yellow Submarine,Yellow Submarine Songtrack,1,0.208,0.616,0.636,0.654,60,2
+Hey Bulldog,Yellow Submarine Songtrack,2,0.0318,0.568,0.824,0.826,45,2
+Eleanor Rigby,Yellow Submarine Songtrack,3,0.836,0.521,0.301,0.621,66,2
+Love You To,Yellow Submarine Songtrack,4,0.555,0.399,0.649,0.657,37,2
+All Together Now,Yellow Submarine Songtrack,5,0.116,0.606,0.413,0.889,43,2
+Lucy In The Sky With Diamonds,Yellow Submarine Songtrack,6,0.0137,0.421,0.388,0.651,46,2
+Think For Yourself,Yellow Submarine Songtrack,7,0.0162,0.528,0.591,0.796,36,2
+Sgt Pepper's Lonely Hearts Club Band,Yellow Submarine Songtrack,8,0.126,0.33,0.85,0.602,39,2
+With A Little Help From My Friends,Yellow Submarine Songtrack,9,0.355,0.707,0.558,0.758,40,2
+Baby You're A Rich Man,Yellow Submarine Songtrack,10,0.0215,0.663,0.606,0.412,36,2
+Only A Northern Song,Yellow Submarine Songtrack,11,0.000409,0.364,0.723,0.78,35,2
+All You Need Is Love,Yellow Submarine Songtrack,12,0.281,0.364,0.483,0.7,52,2
+When I'm Sixty Four,Yellow Submarine Songtrack,13,0.683,0.717,0.224,0.594,42,2
+Nowhere Man,Yellow Submarine Songtrack,14,0.0155,0.534,0.646,0.852,40,2
+It's All Too Much,Yellow Submarine Songtrack,15,4.71e-05,0.48,0.81,0.208,37,2
+"And Here We Are Again - Live At The BBC For ""Pop Go The Beatles"" / 23rd July, 1963",On Air - Live At The BBC (Vol.2),1,0.773,0.772,0.306,0.965,1,1
+"Words Of Love - Live At The BBC For ""Pop Go The Beatles"" / 20th August, 1963",On Air - Live At The BBC (Vol.2),2,0.776,0.634,0.607,0.925,28,1
+"How About It, Gorgeous? - Live At The BBC For ""Pop Go The Beatles"" / 30th July, 1963",On Air - Live At The BBC (Vol.2),3,0.944,0.649,0.176,0.923,23,1
+"Do You Want To Know A Secret - Live At The BBC For ""Pop Go The Beatles"" / 30th July, 1963",On Air - Live At The BBC (Vol.2),4,0.65,0.551,0.352,0.717,31,1
+"Lucille - Live At The BBC For ""Pop Go The Beatles"" / 17th September, 1963",On Air - Live At The BBC (Vol.2),5,0.752,0.588,0.843,0.91,24,1
+"Hey Paul…. - Live At The BBC For ""Pop Go The Beatles"" / 25th June, 1963",On Air - Live At The BBC (Vol.2),6,0.852,0.769,0.16,0.969,0,1
+"Anna (Go To Him) - Live At The BBC For ""Pop Go The Beatles"" / 27th August, 1963",On Air - Live At The BBC (Vol.2),7,0.944,0.71,0.474,0.813,28,1
+"Hello! - Live At The BBC For ""Pop Go The Beatles"" / 25th June, 1963",On Air - Live At The BBC (Vol.2),8,0.907,0.736,0.26,0.973,0,1
+"Please Please Me - Live At The BBC For ""Pop Go The Beatles"" / 13th August, 1963",On Air - Live At The BBC (Vol.2),9,0.798,0.524,0.614,0.824,27,1
+"Misery - Live At The BBC For ""Here We Go"" / 12th March, 1963",On Air - Live At The BBC (Vol.2),10,0.298,0.68,0.535,0.858,25,1
+"I'm Talking About You - Live At The BBC For ""Saturday Club"" / 16th March, 1963",On Air - Live At The BBC (Vol.2),11,0.826,0.579,0.772,0.948,24,1
+"A Real Treat - Live At The BBC For ""Pop Go The Beatles"" / 25th June, 1963",On Air - Live At The BBC (Vol.2),12,0.845,0.742,0.254,0.798,24,1
+"Boys - Live At The BBC For ""Pop Go The Beatles"" / 25th June, 1963",On Air - Live At The BBC (Vol.2),13,0.644,0.502,0.609,0.792,22,1
+"Absolutely Fab - Live At The BBC For ""Pop Go The Beatles"" / 25th June, 1963",On Air - Live At The BBC (Vol.2),14,0.905,0.786,0.289,0.949,0,1
+"Chains - Live At The BBC For ""Pop Go The Beatles"" / 25th June, 1963",On Air - Live At The BBC (Vol.2),15,0.545,0.517,0.576,0.924,23,1
+"Ask Me Why - Live At The BBC For ""Pop Go The Beatles"" / 24th September, 1963",On Air - Live At The BBC (Vol.2),16,0.792,0.694,0.266,0.874,25,1
+"Till There Was You - Live At The BBC For ""Pop Go The Beatles"" / 30th July, 1963",On Air - Live At The BBC (Vol.2),17,0.859,0.703,0.369,0.754,26,1
+"Lend Me Your Comb - Live At The BBC For ""Pop Go The Beatles"" / 16th July, 1963",On Air - Live At The BBC (Vol.2),18,0.529,0.592,0.521,0.961,22,1
+"Lower 5E - Live At The BBC For ""Pop Go The Beatles"" / 10th September, 1963",On Air - Live At The BBC (Vol.2),19,0.962,0.794,0.149,0.96,0,1
+"The Hippy Hippy Shake - Live At The BBC For ""Pop Go The Beatles"" / 10th September, 1963",On Air - Live At The BBC (Vol.2),20,0.692,0.504,0.763,0.928,21,1
+"Roll Over Beethoven - Live At The BBC For ""Pop Go The Beatles"" / 3rd September, 1963",On Air - Live At The BBC (Vol.2),21,0.961,0.391,0.885,0.89,22,1
+"There's A Place - Live At The BBC For ""Pop Go The Beatles"" / 3rd September, 1963",On Air - Live At The BBC (Vol.2),22,0.633,0.514,0.667,0.864,23,1
+"Bumper Bundle - Live At The BBC For ""Pop Go The Beatles"" / 25th June, 1963",On Air - Live At The BBC (Vol.2),23,0.854,0.716,0.196,0.906,19,1
+"P.S. I Love You - Live At The BBC For ""Pop Go The Beatles"" / 25th June, 1963",On Air - Live At The BBC (Vol.2),24,0.451,0.55,0.295,0.736,24,1
+"Please Mister Postman - Live At The BBC For ""Pop Go The Beatles"" / 30th July 1963",On Air - Live At The BBC (Vol.2),25,0.823,0.704,0.549,0.922,26,1
+"Beautiful Dreamer - Live At The BBC For ""Saturday Club"" / 26th January, 1963",On Air - Live At The BBC (Vol.2),26,0.84,0.44,0.765,0.81,22,1
+"Devil In Her Heart - Live At The BBC For ""Pop Go The Beatles"" / 25th September, 1963",On Air - Live At The BBC (Vol.2),27,0.788,0.714,0.534,0.897,22,1
+"The 49 Weeks - Live At The BBC For ""Pop Go The Beatles"" / 24th September, 1963",On Air - Live At The BBC (Vol.2),28,0.977,0.861,0.2,0.98,0,1
+"Sure To Fall (In Love With You) - Live At The BBC For ""Pop Go The Beatles"" / 24th September, 1963",On Air - Live At The BBC (Vol.2),29,0.78,0.662,0.336,0.723,20,1
+"Never Mind, Eh? - Live At The BBC For ""Pop Go The Beatles"" / 24th September, 1963",On Air - Live At The BBC (Vol.2),30,0.961,0.716,0.164,0.546,18,1
+"Twist And Shout - Live At The BBC For ""Pop Go The Beatles"" / 6th August, 1963",On Air - Live At The BBC (Vol.2),31,0.601,0.65,0.753,0.932,39,1
+"Bye, Bye - Live At The BBC For ""Pop Go The Beatles"" / 24th September, 1963",On Air - Live At The BBC (Vol.2),32,0.979,0.628,0.201,0.0,0,1
+"John - Pop Profile - Live At The BBC / 30th November, 1965",On Air - Live At The BBC (Vol.2),33,0.738,0.7,0.186,0.832,18,1
+"George - Pop Profile - Live At The BBC / 30th November, 1965",On Air - Live At The BBC (Vol.2),34,0.786,0.596,0.118,0.594,17,1
+"I Saw Her Standing There - Live At The BBC For ""Saturday Club"" / 5th October, 1963",On Air - Live At The BBC (Vol.2),1,0.143,0.492,0.506,0.96,24,1
+"Glad All Over - Live At The BBC For ""Saturday Club"" / 24th August, 1963",On Air - Live At The BBC (Vol.2),2,0.623,0.638,0.581,0.959,19,1
+"Lift Lid Again - Live At The BBC For ""Saturday Club"" / 24th August, 1963",On Air - Live At The BBC (Vol.2),3,0.966,0.678,0.16,0.864,17,1
+"I'll Get You - Live At The BBC For ""Saturday Club"" / 5th October, 1963",On Air - Live At The BBC (Vol.2),4,0.303,0.753,0.346,0.953,21,1
+"She Loves You - Live At The BBC For ""Saturday Club"" / 5th October, 1963",On Air - Live At The BBC (Vol.2),5,0.432,0.43,0.523,0.904,23,1
+"Memphis, Tennessee - Live At The BBC For ""Saturday Club"" / 5th October, 1963",On Air - Live At The BBC (Vol.2),6,0.231,0.757,0.303,0.703,20,1
+"Happy Birthday Dear Saturday Club - Live At The BBC For ""Saturday Club"" / 5th October, 1963",On Air - Live At The BBC (Vol.2),7,0.722,0.759,0.486,0.863,46,1
+"Now Hush, Hush - Live At The BBC For ""Easy Beat"" / 20th October, 1963",On Air - Live At The BBC (Vol.2),8,0.93,0.449,0.507,0.444,0,1
+"From Me To You - Live At The BBC For ""Easy Beat"" / 20th October, 1963",On Air - Live At The BBC (Vol.2),9,0.438,0.474,0.785,0.793,21,1
+"Money (That's What I Want) - Live At The BBC For ""The Beatles Say From Us To You"" / 26th December, 1963",On Air - Live At The BBC (Vol.2),10,0.811,0.633,0.67,0.96,23,1
+"I Want To Hold Your Hand - Live At The BBC For ""The Beatles Say From Us To You"" / 26th December, 1963",On Air - Live At The BBC (Vol.2),11,0.674,0.588,0.744,0.865,24,1
+"Brian Bathtubes - Live At The BBC For ""Saturday Club"" / 21st December, 1963",On Air - Live At The BBC (Vol.2),12,0.953,0.77,0.302,0.797,19,1
+"This Boy - Live At The BBC For ""Saturday Club"" / 21st December, 1963",On Air - Live At The BBC (Vol.2),13,0.815,0.632,0.45,0.529,28,1
+"If I Wasn’t In America - Live At The BBC For ""Saturday Club"" / 15th February, 1964",On Air - Live At The BBC (Vol.2),14,0.915,0.674,0.54,0.958,22,1
+"I Got A Woman - Live At The BBC For ""Saturday Club"" / 4th April, 1964",On Air - Live At The BBC (Vol.2),15,0.0257,0.592,0.563,0.772,20,1
+"Long Tall Sally - Live At The BBC For ""Top Gear"" / 16th July, 1964",On Air - Live At The BBC (Vol.2),16,0.0026,0.407,0.477,0.782,19,1
+Love Me Do - Mono / Remastered,1 (Remastered),1,0.404,0.524,0.88,0.758,55,2
+From Me To You - Mono / Remastered,1 (Remastered),2,0.507,0.581,0.821,0.968,57,2
+She Loves You - Mono / Remastered,1 (Remastered),3,0.26,0.377,0.916,0.912,64,2
+I Want To Hold Your Hand - Remastered 2015,1 (Remastered),4,0.386,0.49,0.715,0.866,71,2
+Can't Buy Me Love - Remastered 2015,1 (Remastered),5,0.118,0.426,0.76,0.955,54,2
+A Hard Day's Night - Remastered 2015,1 (Remastered),6,0.0487,0.546,0.818,0.756,56,2
+I Feel Fine - Remastered 2015,1 (Remastered),7,0.0904,0.564,0.827,0.912,62,2
+Eight Days A Week - Remastered 2015,1 (Remastered),8,0.265,0.636,0.677,0.837,53,2
+Ticket To Ride - Remastered 2015,1 (Remastered),9,0.0638,0.554,0.904,0.801,53,2
+Help! - Remastered 2015,1 (Remastered),10,0.149,0.602,0.736,0.819,55,2
+Yesterday - Remastered 2015,1 (Remastered),11,0.871,0.401,0.189,0.357,58,2
+Day Tripper - Remastered 2015,1 (Remastered),12,0.12,0.665,0.782,0.731,65,2
+We Can Work It Out - Remastered 2015,1 (Remastered),13,0.0635,0.378,0.677,0.648,61,2
+Paperback Writer - Remastered 2015,1 (Remastered),14,0.147,0.472,0.856,0.841,57,2
+Yellow Submarine - Remastered 2015,1 (Remastered),15,0.158,0.66,0.557,0.788,52,2
+Eleanor Rigby - Remastered 2015,1 (Remastered),16,0.916,0.605,0.314,0.836,56,2
+Penny Lane - Remastered 2015,1 (Remastered),17,0.0964,0.679,0.592,0.55,55,2
+All You Need Is Love - Remastered 2015,1 (Remastered),18,0.437,0.397,0.625,0.676,56,2
+"Hello, Goodbye - Remastered 2015",1 (Remastered),19,0.402,0.498,0.806,0.664,53,2
+Lady Madonna - Remastered 2015,1 (Remastered),20,0.141,0.65,0.777,0.574,56,2
+Hey Jude - Remastered 2015,1 (Remastered),21,0.0112,0.386,0.607,0.532,73,2
+Get Back - Remastered 2015,1 (Remastered),22,0.186,0.703,0.636,0.218,55,2
+The Ballad Of John And Yoko - Remastered 2015,1 (Remastered),23,0.00465,0.651,0.892,0.962,55,2
+Something - Remastered 2015,1 (Remastered),24,0.302,0.449,0.375,0.466,53,2
+Come Together - Remastered 2015,1 (Remastered),25,0.0601,0.559,0.343,0.183,53,2
+Let It Be - Remastered 2015,1 (Remastered),26,0.58,0.445,0.436,0.483,62,2
+The Long And Winding Road - Remastered 2015,1 (Remastered),27,0.667,0.326,0.365,0.314,50,2
+"Beatles Greetings - Live At The BBC For ""The Public Ear"" / 3rd November, 1963",Live At The BBC (Remastered),1,0.878,0.0,0.29,0.0,1,1
+"From Us To You - Live At The BBC / Opening Theme From ""From Us To You"" / 1964",Live At The BBC (Remastered),2,0.0349,0.643,0.773,0.88,4,1
+"Riding On A Bus - Live At The BBC For ""Top Gear"" / 26th November, 1964",Live At The BBC (Remastered),3,0.928,0.646,0.135,0.624,24,1
+"I Got A Woman - Live At The BBC For ""Pop Go The Beatles"" / 13th August, 1963",Live At The BBC (Remastered),4,0.646,0.676,0.661,0.909,27,1
+"Too Much Monkey Business - Live At The BBC For ""Pop Go The Beatles"" / 10th September, 1963",Live At The BBC (Remastered),5,0.28,0.631,0.766,0.965,27,1
+"Keep Your Hands Off My Baby - Live At The BBC For ""Saturday Club"" / 26th January, 1963",Live At The BBC (Remastered),6,0.0851,0.566,0.629,0.885,27,1
+"I'll Be On My Way - Live At The BBC For ""Side By Side"" / 24th June, 1963",Live At The BBC (Remastered),7,0.234,0.614,0.485,0.79,29,1
+"Young Blood - Live At The BBC For ""Pop Go The Beatles"" / 11th June, 1963",Live At The BBC (Remastered),8,0.697,0.474,0.615,0.923,26,1
+"A Shot Of Rhythm And Blues - Live At The BBC For ""Pop Go The Beatles"" / 27th August, 1963",Live At The BBC (Remastered),9,0.879,0.699,0.752,0.968,30,1
+"Sure To Fall (In Love With You) - Live At The BBC For ""Pop Go The Beatles"" / 18th June, 1963",Live At The BBC (Remastered),10,0.351,0.485,0.53,0.896,25,1
+"Some Other Guy - Live At The BBC For ""Easy Beat"" / 23rd June, 1963",Live At The BBC (Remastered),11,0.00388,0.451,0.809,0.895,31,1
+"Thank You Girl - Live At The BBC For ""Easy Beat"" / 23rd June, 1963",Live At The BBC (Remastered),12,0.0183,0.404,0.722,0.932,25,1
+"Sha La La La La! - Live At The BBC For ""Pop Go The Beatles"" / 11th June, 1963",Live At The BBC (Remastered),13,0.583,0.803,0.349,0.95,1,1
+"Baby It's You - Live At The BBC For ""Pop Go The Beatles"" / 11th June, 1963",Live At The BBC (Remastered),14,0.326,0.531,0.525,0.786,28,1
+"That's All Right (Mama) - Live At The BBC For ""Pop Go The Beatles"" / 16th July, 1963",Live At The BBC (Remastered),15,0.604,0.671,0.657,0.957,26,1
+"Carol - Live At The BBC For ""Pop Go The Beatles"" / 16th July, 1963",Live At The BBC (Remastered),16,0.311,0.484,0.706,0.979,25,1
+"What Is It, George? - Live At The BBC For ""Pop Go The Beatles"" / 16th July, 1963",Live At The BBC (Remastered),17,0.784,0.745,0.173,0.649,23,1
+"Soldier Of Love - Live At The BBC For ""Pop Go The Beatles"" / 16th July, 1963",Live At The BBC (Remastered),18,0.319,0.742,0.413,0.969,34,1
+"A Little Rhyme - Live At The BBC For ""Pop Go The Beatles"" / 16th July, 1963",Live At The BBC (Remastered),19,0.82,0.744,0.182,0.88,0,1
+"Clarabella - Live At The BBC For ""Pop Go The Beatles"" / 16th July, 1963",Live At The BBC (Remastered),20,0.61,0.521,0.63,0.883,24,1
+"I'm Gonna Sit Right Down And Cry (Over You) - Live At The BBC For ""Pop Go The Beatles"" / 6th August, 1963",Live At The BBC (Remastered),21,0.357,0.639,0.651,0.942,25,1
+"Crying, Waiting, Hoping - Live At The BBC For ""Pop Go The Beatles"" / 6th August, 1963",Live At The BBC (Remastered),22,0.689,0.647,0.312,0.895,26,1
+"Dear Wack! - Live At The BBC For ""Saturday Club"" / 24th August, 1963",Live At The BBC (Remastered),23,0.928,0.626,0.15,0.934,21,1
+"You Really Got A Hold On Me - Live At The BBC For ""Saturday Club"" / 24th August, 1963",Live At The BBC (Remastered),24,0.721,0.649,0.294,0.738,25,1
+"To Know Her Is To Love Her - Live At The BBC For ""Pop Go The Beatles"" / 6th August, 1963",Live At The BBC (Remastered),25,0.777,0.45,0.34,0.456,31,1
+"A Taste Of Honey - Live At The BBC For ""Pop Go The Beatles"" / 23rd July, 1963",Live At The BBC (Remastered),26,0.737,0.506,0.285,0.607,25,1
+"Long Tall Sally - Live At The BBC For ""Pop Go The Beatles"" / 13th August, 1963",Live At The BBC (Remastered),27,0.267,0.593,0.666,0.877,23,1
+"I Saw Her Standing There - Live At The BBC For ""Easy Beat"" / 20th October 1963",Live At The BBC (Remastered),28,0.232,0.459,0.735,0.938,27,1
+"The Honeymoon Song - Live At The BBC For ""Pop Go The Beatles"" / 6th August, 1963",Live At The BBC (Remastered),29,0.72,0.728,0.323,0.799,26,1
+"Johnny B Goode - Live At The BBC For ""Saturday Club"" / 15th February, 1964",Live At The BBC (Remastered),30,0.0281,0.492,0.737,0.961,31,1
+"Memphis, Tennessee - Live At The BBC For ""Pop Go The Beatles"" / 30th July, 1963",Live At The BBC (Remastered),31,0.613,0.77,0.411,0.538,24,1
+"Lucille - Live At The BBC For ""Saturday Club"" / 5th October, 1963",Live At The BBC (Remastered),32,0.397,0.629,0.651,0.97,24,1
+"Can't Buy Me Love - Live At The BBC For ""From Us To You Say The Beatles"" / 10th March, 1964",Live At The BBC (Remastered),33,0.316,0.531,0.597,0.946,23,1
+"From Fluff To You - Live At The BBC For ""From Us To You Say The Beatles"" / 10th March, 1964",Live At The BBC (Remastered),34,0.753,0.719,0.0596,0.721,1,1
+"Till There Was You - Live At The BBC For ""From Us To You Say The Beatles"" / 10th March, 1964",Live At The BBC (Remastered),35,0.616,0.571,0.329,0.571,25,1
+"Crinsk Dee Night - Live At The BBC For ""Top Gear"" / 16th July, 1964",Live At The BBC (Remastered),1,0.807,0.678,0.11,0.699,20,1
+"A Hard Day's Night - Live At The BBC For ""Top Gear"" / 16th July, 1964",Live At The BBC (Remastered),2,0.0179,0.552,0.525,0.796,23,1
+"Ringo? Yep! - Live At The BBC For ""From Us To You Say The Beatles"" / 30th March, 1964",Live At The BBC (Remastered),3,0.318,0.0,0.0613,0.0,0,1
+"I Wanna Be Your Man - Live At The BBC For ""From Us To You Say The Beatles"" / 30th March, 1964",Live At The BBC (Remastered),4,0.436,0.435,0.818,0.691,21,1
+"Just A Rumour - Live At The BBC For ""From Us To You Say The Beatles"" / 30th March, 1964",Live At The BBC (Remastered),5,0.589,0.737,0.0586,0.923,0,1
+"Roll Over Beethoven - Live At The BBC For ""From Us To You Say The Beatles"" / 30th March, 1964",Live At The BBC (Remastered),6,0.27,0.468,0.644,0.966,22,1
+"All My Loving - Live At The BBC For ""From Us To You Say The Beatles"" / 30th March, 1964",Live At The BBC (Remastered),7,0.117,0.477,0.49,0.882,27,1
+"Things We Said Today - Live At The BBC For ""Top Gear"" / 16th July, 1964",Live At The BBC (Remastered),8,0.267,0.649,0.488,0.778,22,1
+"She's A Woman - Live At The BBC For ""Top Gear"" / 26th November, 1964",Live At The BBC (Remastered),9,0.138,0.76,0.378,0.907,22,1
+"Sweet Little Sixteen - Live At The BBC For ""Pop Go The Beatles"" / 23rd July, 1963",Live At The BBC (Remastered),10,0.403,0.491,0.637,0.975,26,1
+"1822! - Live At The BBC For ""Pop Go The Beatles"" / 23rd July, 1963",Live At The BBC (Remastered),11,0.953,0.0,0.0923,0.0,0,1
+"Lonesome Tears In My Eyes - Live At The BBC For ""Pop Go The Beatles"" / 23rd July, 1963",Live At The BBC (Remastered),12,0.46,0.579,0.481,0.963,25,1
+"Nothin' Shakin' - Live At The BBC For ""Pop Go The Beatles"" / 23rd July, 1963",Live At The BBC (Remastered),13,0.52,0.761,0.614,0.979,24,1
+"The Hippy Hippy Shake - Live At The BBC For ""Pop Go The Beatles"" / 30th July, 1963",Live At The BBC (Remastered),14,0.504,0.541,0.6,0.958,25,1
+"Glad All Over - Live At The BBC For ""Pop Go The Beatles"" / 20th August, 1963",Live At The BBC (Remastered),15,0.583,0.604,0.617,0.913,21,1
+Two Of Us - Remastered 2009,Let It Be (Remastered),1,0.0974,0.726,0.702,0.931,56,2
+Dig A Pony - Remastered 2009,Let It Be (Remastered),2,0.472,0.538,0.478,0.527,51,2
+Across The Universe - Remastered 2009,Let It Be (Remastered),3,0.361,0.257,0.412,0.858,65,2
+I Me Mine - Remastered 2009,Let It Be (Remastered),4,0.179,0.291,0.638,0.525,53,2
+Dig It - Remastered 2009,Let It Be (Remastered),5,0.659,0.54,0.489,0.67,45,2
+Let It Be - Remastered 2009,Let It Be (Remastered),6,0.631,0.443,0.403,0.41,76,2
+Maggie Mae - Remastered 2009,Let It Be (Remastered),7,0.379,0.516,0.515,0.524,48,2
+I've Got A Feeling - Remastered 2009,Let It Be (Remastered),8,0.0715,0.44,0.609,0.364,55,2
+One After 909 - Remastered 2009,Let It Be (Remastered),9,0.0307,0.554,0.828,0.888,48,2
+The Long And Winding Road - Remastered 2009,Let It Be (Remastered),10,0.756,0.299,0.329,0.392,64,2
+For You Blue - Remastered 2009,Let It Be (Remastered),11,0.24,0.88,0.556,0.955,48,2
+Get Back - Remastered 2009,Let It Be (Remastered),12,0.492,0.761,0.592,0.332,65,2
+Come Together - Remastered 2009,Abbey Road (Remastered),1,0.0302,0.533,0.376,0.187,76,2
+Something - Remastered 2009,Abbey Road (Remastered),2,0.198,0.396,0.338,0.377,71,2
+Maxwell's Silver Hammer - Remastered 2009,Abbey Road (Remastered),3,0.629,0.764,0.426,0.726,57,2
+Oh! Darling - Remastered 2009,Abbey Road (Remastered),4,0.0126,0.422,0.656,0.549,65,2
+Octopus's Garden - Remastered 2009,Abbey Road (Remastered),5,0.155,0.626,0.512,0.73,63,2
+I Want You (She's So Heavy) - Remastered 2009,Abbey Road (Remastered),6,0.0233,0.37,0.515,0.42,60,2
+Here Comes The Sun - Remastered 2009,Abbey Road (Remastered),7,0.0339,0.557,0.54,0.394,81,2
+Because - Remastered 2009,Abbey Road (Remastered),8,0.754,0.328,0.249,0.162,57,2
+You Never Give Me Your Money - Remastered 2009,Abbey Road (Remastered),9,0.345,0.335,0.416,0.223,56,2
+Sun King - Remastered 2009,Abbey Road (Remastered),10,0.284,0.483,0.177,0.192,55,2
+Mean Mr Mustard - Remastered 2009,Abbey Road (Remastered),11,0.0699,0.676,0.596,0.97,54,2
+Polythene Pam - Remastered 2009,Abbey Road (Remastered),12,0.00472,0.474,0.939,0.499,53,2
+She Came In Through The Bathroom Window - Remastered 2009,Abbey Road (Remastered),13,0.00376,0.53,0.72,0.69,56,2
+Golden Slumbers - Remastered 2009,Abbey Road (Remastered),14,0.326,0.419,0.152,0.239,64,2
+Carry That Weight - Remastered 2009,Abbey Road (Remastered),15,0.226,0.543,0.458,0.704,57,2
+The End - Remastered 2009,Abbey Road (Remastered),16,0.00101,0.647,0.487,0.222,55,2
+Her Majesty - Remastered 2009,Abbey Road (Remastered),17,0.728,0.703,0.215,0.522,21,2
+Yellow Submarine - Remastered 2009,Yellow Submarine (Remastered),1,0.518,0.605,0.536,0.688,46,2
+Only A Northern Song - Remastered 2009,Yellow Submarine (Remastered),2,0.000341,0.175,0.731,0.801,39,2
+All Together Now - Remastered 2009,Yellow Submarine (Remastered),3,0.0722,0.587,0.431,0.778,42,2
+Hey Bulldog - Remastered 2009,Yellow Submarine (Remastered),4,0.0197,0.587,0.617,0.947,51,2
+It's All Too Much - Remastered 2009,Yellow Submarine (Remastered),5,4.3e-05,0.39,0.781,0.199,40,2
+All You Need Is Love - Remastered 2009,Yellow Submarine (Remastered),6,0.345,0.4,0.463,0.627,40,2
+Pepperland - Remastered 2009,Yellow Submarine (Remastered),7,0.661,0.354,0.281,0.367,42,2
+Sea Of Time - Remastered 2009,Yellow Submarine (Remastered),8,0.971,0.237,0.096,0.0629,35,2
+Sea Of Holes - Remastered 2009,Yellow Submarine (Remastered),9,0.959,0.249,0.0994,0.0357,33,2
+Sea Of Monsters - Remastered 2009,Yellow Submarine (Remastered),10,0.945,0.253,0.166,0.0489,30,2
+March Of The Meanies - Remastered 2009,Yellow Submarine (Remastered),11,0.934,0.538,0.378,0.16,32,2
+Pepperland Laid Waste - Remastered 2009,Yellow Submarine (Remastered),12,0.877,0.269,0.0902,0.0462,30,2
+Yellow Submarine In Pepperland - Remastered 2009,Yellow Submarine (Remastered),13,0.808,0.406,0.219,0.271,42,2
+Back In The U.S.S.R. - Remastered 2009,The Beatles (Remastered),1,0.069,0.48,0.969,0.494,64,2
+Dear Prudence - Remastered 2009,The Beatles (Remastered),2,0.16,0.388,0.529,0.332,57,2
+Glass Onion - Remastered 2009,The Beatles (Remastered),3,0.0123,0.523,0.51,0.789,53,2
+"Ob-La-Di, Ob-La-Da - Remastered 2009",The Beatles (Remastered),4,0.232,0.818,0.728,0.975,69,2
+Wild Honey Pie - Remastered 2009,The Beatles (Remastered),5,0.425,0.792,0.763,0.152,48,2
+The Continuing Story Of Bungalow Bill - Remastered 2009,The Beatles (Remastered),6,0.224,0.621,0.459,0.648,50,2
+While My Guitar Gently Weeps - Remastered 2009,The Beatles (Remastered),7,0.0205,0.453,0.654,0.702,69,2
+Happiness Is A Warm Gun - Remastered 2009,The Beatles (Remastered),8,0.523,0.431,0.54,0.44,57,2
+Martha My Dear - Remastered 2009,The Beatles (Remastered),9,0.872,0.472,0.292,0.824,53,2
+I'm So Tired - Remastered 2009,The Beatles (Remastered),10,0.656,0.433,0.483,0.717,54,2
+Blackbird - Remastered 2009,The Beatles (Remastered),11,0.754,0.686,0.127,0.372,74,2
+Piggies - Remastered 2009,The Beatles (Remastered),12,0.643,0.542,0.445,0.52,48,2
+Rocky Raccoon - Remastered 2009,The Beatles (Remastered),13,0.333,0.599,0.363,0.648,56,2
+Don't Pass Me By - Remastered 2009,The Beatles (Remastered),14,0.594,0.599,0.537,0.946,49,2
+Why Don't We Do It In The Road? - Remastered 2009,The Beatles (Remastered),15,0.53,0.589,0.522,0.957,49,2
+I Will - Remastered 2009,The Beatles (Remastered),16,0.742,0.631,0.387,0.832,63,2
+Julia - Remastered 2009,The Beatles (Remastered),17,0.828,0.512,0.0953,0.193,53,2
+Birthday - Remastered 2009,The Beatles (Remastered),1,7.37e-05,0.541,0.727,0.91,53,2
+Yer Blues - Remastered 2009,The Beatles (Remastered),2,0.000875,0.327,0.525,0.435,50,2
+Mother Nature's Son - Remastered 2009,The Beatles (Remastered),3,0.634,0.608,0.178,0.401,52,2
+Everybody's Got Something To Hide Except Me And My Monkey - Remastered 2009,The Beatles (Remastered),4,0.0207,0.523,0.731,0.81,48,2
+Sexy Sadie - Remastered 2009,The Beatles (Remastered),5,0.33,0.577,0.624,0.671,50,2
+Helter Skelter - Remastered 2009,The Beatles (Remastered),6,0.000606,0.166,0.831,0.281,60,2
+"Long, Long, Long - Remastered 2009",The Beatles (Remastered),7,0.539,0.349,0.129,0.163,48,2
+Revolution 1 - Remastered 2009,The Beatles (Remastered),8,0.0785,0.386,0.626,0.695,49,2
+Honey Pie - Remastered 2009,The Beatles (Remastered),9,0.88,0.537,0.297,0.553,49,2
+Savoy Truffle - Remastered 2009,The Beatles (Remastered),10,0.00814,0.623,0.544,0.793,46,2
+Cry Baby Cry - Remastered 2009,The Beatles (Remastered),11,0.115,0.517,0.529,0.362,48,2
+Revolution 9 - Remastered 2009,The Beatles (Remastered),12,0.769,0.208,0.615,0.101,44,2
+Good Night - Remastered 2009,The Beatles (Remastered),13,0.865,0.146,0.355,0.178,47,2
+Magical Mystery Tour - Remastered 2009,Magical Mystery Tour (Remastered),1,0.0385,0.297,0.613,0.338,51,2
+The Fool On The Hill - Remastered 2009,Magical Mystery Tour (Remastered),2,0.913,0.356,0.26,0.49,56,2
+Flying - Remastered 2009,Magical Mystery Tour (Remastered),3,0.368,0.551,0.395,0.261,49,2
+Blue Jay Way - Remastered 2009,Magical Mystery Tour (Remastered),4,0.0258,0.294,0.407,0.0378,49,2
+Your Mother Should Know - Remastered 2009,Magical Mystery Tour (Remastered),5,0.784,0.698,0.293,0.724,53,2
+I Am The Walrus - Remastered 2009,Magical Mystery Tour (Remastered),6,0.0828,0.401,0.556,0.654,60,2
+"Hello, Goodbye - Remastered 2009",Magical Mystery Tour (Remastered),7,0.306,0.479,0.733,0.806,60,2
+Strawberry Fields Forever - Remastered 2009,Magical Mystery Tour (Remastered),8,0.336,0.39,0.502,0.289,68,2
+Penny Lane - Remastered 2009,Magical Mystery Tour (Remastered),9,0.212,0.651,0.488,0.49,61,2
+"Baby, You're A Rich Man - Remastered 2009",Magical Mystery Tour (Remastered),10,0.0119,0.619,0.625,0.467,51,2
+All You Need Is Love - Remastered 2009,Magical Mystery Tour (Remastered),11,0.346,0.4,0.48,0.653,64,2
+Sgt. Pepper's Lonely Hearts Club Band - Remix,Sgt. Pepper's Lonely Hearts Club Band (Deluxe Edition),1,0.0289,0.367,0.846,0.516,16,0
+With A Little Help From My Friends - Remix,Sgt. Pepper's Lonely Hearts Club Band (Deluxe Edition),2,0.114,0.673,0.628,0.711,14,0
+Lucy In The Sky With Diamonds - Remix,Sgt. Pepper's Lonely Hearts Club Band (Deluxe Edition),3,0.0935,0.325,0.513,0.425,14,0
+Getting Better - Remix,Sgt. Pepper's Lonely Hearts Club Band (Deluxe Edition),4,0.0647,0.599,0.538,0.799,13,0
+Fixing A Hole - Remix,Sgt. Pepper's Lonely Hearts Club Band (Deluxe Edition),5,0.486,0.412,0.653,0.548,11,0
+She's Leaving Home - Remix,Sgt. Pepper's Lonely Hearts Club Band (Deluxe Edition),6,0.884,0.372,0.317,0.205,13,0
+Being For The Benefit Of Mr. Kite! - Remix,Sgt. Pepper's Lonely Hearts Club Band (Deluxe Edition),7,0.119,0.437,0.744,0.589,11,0
+Within You Without You - Remix,Sgt. Pepper's Lonely Hearts Club Band (Deluxe Edition),8,0.35,0.293,0.55,0.377,10,0
+When I'm Sixty-Four - Remix,Sgt. Pepper's Lonely Hearts Club Band (Deluxe Edition),9,0.467,0.693,0.3,0.587,11,0
+Lovely Rita - Remix,Sgt. Pepper's Lonely Hearts Club Band (Deluxe Edition),10,0.0069,0.577,0.675,0.659,10,0
+Good Morning Good Morning - Remix,Sgt. Pepper's Lonely Hearts Club Band (Deluxe Edition),11,0.000366,0.516,0.774,0.849,9,0
+Sgt. Pepper's Lonely Hearts Club Band (Reprise) - Remix,Sgt. Pepper's Lonely Hearts Club Band (Deluxe Edition),12,0.000236,0.576,0.945,0.794,10,0
+A Day In The Life - Remix,Sgt. Pepper's Lonely Hearts Club Band (Deluxe Edition),13,0.254,0.339,0.446,0.133,13,0
+Sgt. Pepper's Lonely Hearts Club Band - Take 9 And Speech,Sgt. Pepper's Lonely Hearts Club Band (Deluxe Edition),1,0.291,0.583,0.687,0.5,8,0
+With A Little Help From My Friends - Take 1 / False Start And Take 2 / Instrumental,Sgt. Pepper's Lonely Hearts Club Band (Deluxe Edition),2,0.232,0.913,0.603,0.38,6,0
+Lucy In The Sky With Diamonds - Take 1,Sgt. Pepper's Lonely Hearts Club Band (Deluxe Edition),3,0.749,0.423,0.361,0.328,7,0
+Getting Better - Take 1 / Instrumental And Speech At The End,Sgt. Pepper's Lonely Hearts Club Band (Deluxe Edition),4,0.447,0.73,0.459,0.33,6,0
+Fixing A Hole - Speech And Take 3,Sgt. Pepper's Lonely Hearts Club Band (Deluxe Edition),5,0.162,0.591,0.554,0.641,5,0
+She's Leaving Home - Take 1 / Instrumental,Sgt. Pepper's Lonely Hearts Club Band (Deluxe Edition),6,0.919,0.443,0.118,0.184,5,0
+Being For The Benefit Of Mr. Kite! - Take 4,Sgt. Pepper's Lonely Hearts Club Band (Deluxe Edition),7,0.482,0.595,0.378,0.536,5,0
+Within You Without You - Take 1 / Indian Instruments,Sgt. Pepper's Lonely Hearts Club Band (Deluxe Edition),8,0.68,0.379,0.389,0.181,5,0
+When I'm Sixty-Four - Take 2,Sgt. Pepper's Lonely Hearts Club Band (Deluxe Edition),9,0.22,0.818,0.231,0.462,5,0
+Lovely Rita - Speech And Take 9,Sgt. Pepper's Lonely Hearts Club Band (Deluxe Edition),10,0.255,0.464,0.719,0.687,5,0
+Good Morning Good Morning - Take 8,Sgt. Pepper's Lonely Hearts Club Band (Deluxe Edition),11,0.0234,0.75,0.503,0.804,4,0
+Sgt. Pepper's Lonely Hearts Club Band (Reprise) - Speech And Take 8,Sgt. Pepper's Lonely Hearts Club Band (Deluxe Edition),12,0.259,0.796,0.786,0.727,4,0
+A Day In The Life - Take 1 With Hums,Sgt. Pepper's Lonely Hearts Club Band (Deluxe Edition),13,0.919,0.483,0.326,0.192,6,0
+Strawberry Fields Forever - Take 7,Sgt. Pepper's Lonely Hearts Club Band (Deluxe Edition),14,0.736,0.368,0.427,0.329,5,0
+Strawberry Fields Forever - Take 26,Sgt. Pepper's Lonely Hearts Club Band (Deluxe Edition),15,0.211,0.443,0.745,0.29,6,0
+Strawberry Fields Forever - Stereo Mix 2015,Sgt. Pepper's Lonely Hearts Club Band (Deluxe Edition),16,0.363,0.387,0.628,0.236,7,0
+Penny Lane - Take 6 / Instrumental,Sgt. Pepper's Lonely Hearts Club Band (Deluxe Edition),17,0.669,0.9,0.5,0.147,5,0
+Penny Lane - Stereo Mix 2017,Sgt. Pepper's Lonely Hearts Club Band (Deluxe Edition),18,0.0341,0.628,0.522,0.623,6,0
+Sgt. Pepper's Lonely Hearts Club Band - Remix,Sgt. Pepper's Lonely Hearts Club Band (Deluxe Edition),1,0.0341,0.361,0.857,0.523,41,0
+With A Little Help From My Friends - Remix,Sgt. Pepper's Lonely Hearts Club Band (Deluxe Edition),2,0.126,0.643,0.605,0.794,41,0
+Lucy In The Sky With Diamonds - Remix,Sgt. Pepper's Lonely Hearts Club Band (Deluxe Edition),3,0.0907,0.318,0.53,0.423,42,0
+Getting Better - Remix,Sgt. Pepper's Lonely Hearts Club Band (Deluxe Edition),4,0.0913,0.598,0.551,0.817,38,0
+Fixing A Hole - Remix,Sgt. Pepper's Lonely Hearts Club Band (Deluxe Edition),5,0.503,0.405,0.644,0.52,37,0
+She's Leaving Home - Remix,Sgt. Pepper's Lonely Hearts Club Band (Deluxe Edition),6,0.879,0.372,0.32,0.251,38,0
+Being For The Benefit Of Mr. Kite! - Remix,Sgt. Pepper's Lonely Hearts Club Band (Deluxe Edition),7,0.13,0.246,0.743,0.623,35,0
+Within You Without You - Remix,Sgt. Pepper's Lonely Hearts Club Band (Deluxe Edition),8,0.325,0.292,0.545,0.365,35,0
+When I'm Sixty-Four - Remix,Sgt. Pepper's Lonely Hearts Club Band (Deluxe Edition),9,0.49,0.697,0.294,0.571,38,0
+Lovely Rita - Remix,Sgt. Pepper's Lonely Hearts Club Band (Deluxe Edition),10,0.00624,0.58,0.695,0.69,36,0
+Good Morning Good Morning - Remix,Sgt. Pepper's Lonely Hearts Club Band (Deluxe Edition),11,0.000312,0.511,0.794,0.847,33,0
+Sgt. Pepper's Lonely Hearts Club Band (Reprise) - Remix,Sgt. Pepper's Lonely Hearts Club Band (Deluxe Edition),12,0.000202,0.575,0.948,0.856,34,0
+A Day In The Life - Remix,Sgt. Pepper's Lonely Hearts Club Band (Deluxe Edition),13,0.258,0.338,0.47,0.107,39,0
+Sgt. Pepper's Lonely Hearts Club Band - Take 9 And Speech,Sgt. Pepper's Lonely Hearts Club Band (Deluxe Edition),1,0.256,0.585,0.7,0.493,30,0
+With A Little Help From My Friends - Take 1 / False Start And Take 2 / Instrumental,Sgt. Pepper's Lonely Hearts Club Band (Deluxe Edition),2,0.253,0.912,0.607,0.385,28,0
+Lucy In The Sky With Diamonds - Take 1,Sgt. Pepper's Lonely Hearts Club Band (Deluxe Edition),3,0.787,0.418,0.367,0.316,29,0
+Getting Better - Take 1 / Instrumental And Speech At The End,Sgt. Pepper's Lonely Hearts Club Band (Deluxe Edition),4,0.412,0.724,0.456,0.32,25,0
+Fixing A Hole - Speech And Take 3,Sgt. Pepper's Lonely Hearts Club Band (Deluxe Edition),5,0.166,0.605,0.546,0.568,25,0
+She's Leaving Home - Take 1 / Instrumental,Sgt. Pepper's Lonely Hearts Club Band (Deluxe Edition),6,0.914,0.45,0.12,0.182,26,0
+Being For The Benefit Of Mr. Kite! - Take 4,Sgt. Pepper's Lonely Hearts Club Band (Deluxe Edition),7,0.452,0.592,0.387,0.507,24,0
+Within You Without You - Take 1 / Indian Instruments,Sgt. Pepper's Lonely Hearts Club Band (Deluxe Edition),8,0.676,0.376,0.391,0.175,25,0
+When I'm Sixty-Four - Take 2,Sgt. Pepper's Lonely Hearts Club Band (Deluxe Edition),9,0.218,0.815,0.237,0.426,25,0
+Lovely Rita - Speech And Take 9,Sgt. Pepper's Lonely Hearts Club Band (Deluxe Edition),10,0.287,0.472,0.711,0.68,24,0
+Good Morning Good Morning - Take 8,Sgt. Pepper's Lonely Hearts Club Band (Deluxe Edition),11,0.0225,0.752,0.514,0.79,23,0
+Sgt. Pepper's Lonely Hearts Club Band (Reprise) - Speech And Take 8,Sgt. Pepper's Lonely Hearts Club Band (Deluxe Edition),12,0.258,0.797,0.806,0.762,23,0
+A Day In The Life - Take 1 With Hums,Sgt. Pepper's Lonely Hearts Club Band (Deluxe Edition),13,0.918,0.493,0.33,0.195,27,0
+Strawberry Fields Forever - Take 7,Sgt. Pepper's Lonely Hearts Club Band (Deluxe Edition),14,0.746,0.36,0.428,0.357,28,0
+Strawberry Fields Forever - Take 26,Sgt. Pepper's Lonely Hearts Club Band (Deluxe Edition),15,0.219,0.444,0.734,0.335,25,0
+Strawberry Fields Forever - Stereo Mix 2015,Sgt. Pepper's Lonely Hearts Club Band (Deluxe Edition),16,0.342,0.38,0.627,0.255,31,0
+Penny Lane - Take 6 / Instrumental,Sgt. Pepper's Lonely Hearts Club Band (Deluxe Edition),17,0.69,0.897,0.516,0.144,23,0
+Penny Lane - Stereo Mix 2017,Sgt. Pepper's Lonely Hearts Club Band (Deluxe Edition),18,0.0369,0.624,0.536,0.641,43,0
+Sgt. Pepper's Lonely Hearts Club Band - Remastered 2009,Sgt. Pepper's Lonely Hearts Club Band (Remastered),1,0.0857,0.451,0.673,0.583,60,2
+With A Little Help From My Friends - Remastered 2009,Sgt. Pepper's Lonely Hearts Club Band (Remastered),2,0.365,0.705,0.515,0.803,64,2
+Lucy In The Sky With Diamonds - Remastered 2009,Sgt. Pepper's Lonely Hearts Club Band (Remastered),3,0.0469,0.311,0.325,0.668,66,2
+Getting Better - Remastered 2009,Sgt. Pepper's Lonely Hearts Club Band (Remastered),4,0.313,0.632,0.471,0.764,52,2
+Fixing A Hole - Remastered 2009,Sgt. Pepper's Lonely Hearts Club Band (Remastered),5,0.382,0.469,0.507,0.619,52,2
+She's Leaving Home - Remastered 2009,Sgt. Pepper's Lonely Hearts Club Band (Remastered),6,0.944,0.381,0.214,0.393,57,2
+Being For The Benefit Of Mr. Kite! - Remastered 2009,Sgt. Pepper's Lonely Hearts Club Band (Remastered),7,0.338,0.526,0.413,0.71,50,2
+Within You Without You - Remastered 2009,Sgt. Pepper's Lonely Hearts Club Band (Remastered),8,0.339,0.352,0.479,0.354,51,2
+When I'm Sixty Four - Remastered 2009,Sgt. Pepper's Lonely Hearts Club Band (Remastered),9,0.625,0.704,0.241,0.661,63,2
+Lovely Rita - Remastered 2009,Sgt. Pepper's Lonely Hearts Club Band (Remastered),10,0.0634,0.61,0.471,0.63,52,2
+Good Morning Good Morning - Remastered 2009,Sgt. Pepper's Lonely Hearts Club Band (Remastered),11,0.0858,0.542,0.618,0.93,48,2
+Sgt. Pepper's Lonely Hearts Club Band - Reprise / Remastered 2009,Sgt. Pepper's Lonely Hearts Club Band (Remastered),12,0.0061,0.653,0.889,0.879,49,2
+A Day In The Life - Remastered 2009,Sgt. Pepper's Lonely Hearts Club Band (Remastered),13,0.29,0.364,0.457,0.175,62,2
+Sgt. Pepper's Lonely Hearts Club Band - Remix,Sgt. Pepper's Lonely Hearts Club Band (Super Deluxe Edition),1,0.0308,0.36,0.858,0.522,47,0
+With A Little Help From My Friends - Remix,Sgt. Pepper's Lonely Hearts Club Band (Super Deluxe Edition),2,0.122,0.673,0.639,0.75,47,0
+Lucy In The Sky With Diamonds - Remix,Sgt. Pepper's Lonely Hearts Club Band (Super Deluxe Edition),3,0.101,0.331,0.521,0.432,47,0
+Getting Better - Remix,Sgt. Pepper's Lonely Hearts Club Band (Super Deluxe Edition),4,0.07,0.591,0.551,0.81,41,0
+Fixing A Hole - Remix,Sgt. Pepper's Lonely Hearts Club Band (Super Deluxe Edition),5,0.483,0.415,0.665,0.523,38,0
+She's Leaving Home - Remix,Sgt. Pepper's Lonely Hearts Club Band (Super Deluxe Edition),6,0.881,0.376,0.319,0.217,40,0
+Being For The Benefit Of Mr. Kite! - Remix,Sgt. Pepper's Lonely Hearts Club Band (Super Deluxe Edition),7,0.103,0.247,0.752,0.593,36,0
+Within You Without You - Remix,Sgt. Pepper's Lonely Hearts Club Band (Super Deluxe Edition),8,0.357,0.291,0.551,0.373,39,0
+When I'm Sixty-Four - Remix,Sgt. Pepper's Lonely Hearts Club Band (Super Deluxe Edition),9,0.508,0.696,0.308,0.564,40,0
+Lovely Rita - Remix,Sgt. Pepper's Lonely Hearts Club Band (Super Deluxe Edition),10,0.00726,0.578,0.687,0.659,37,0
+Good Morning Good Morning - Remix,Sgt. Pepper's Lonely Hearts Club Band (Super Deluxe Edition),11,0.000302,0.505,0.797,0.825,34,0
+Sgt. Pepper's Lonely Hearts Club Band (Reprise) - Remix,Sgt. Pepper's Lonely Hearts Club Band (Super Deluxe Edition),12,0.000249,0.576,0.951,0.789,37,0
+A Day In The Life - Remix,Sgt. Pepper's Lonely Hearts Club Band (Super Deluxe Edition),13,0.268,0.377,0.453,0.121,46,0
+Strawberry Fields Forever - Take 1,Sgt. Pepper's Lonely Hearts Club Band (Super Deluxe Edition),1,0.829,0.623,0.132,0.181,34,0
+Strawberry Fields Forever - Take 4,Sgt. Pepper's Lonely Hearts Club Band (Super Deluxe Edition),2,0.696,0.527,0.339,0.314,31,0
+Strawberry Fields Forever - Take 7,Sgt. Pepper's Lonely Hearts Club Band (Super Deluxe Edition),3,0.754,0.369,0.402,0.346,33,0
+Strawberry Fields Forever - Take 26,Sgt. Pepper's Lonely Hearts Club Band (Super Deluxe Edition),4,0.219,0.448,0.855,0.342,30,0
+Strawberry Fields Forever - Stereo Mix 2015,Sgt. Pepper's Lonely Hearts Club Band (Super Deluxe Edition),5,0.385,0.413,0.722,0.228,42,0
+When I'm Sixty-Four - Take 2,Sgt. Pepper's Lonely Hearts Club Band (Super Deluxe Edition),6,0.32,0.816,0.218,0.434,29,0
+Penny Lane - Take 6 / Instrumental,Sgt. Pepper's Lonely Hearts Club Band (Super Deluxe Edition),7,0.667,0.901,0.548,0.135,27,0
+Penny Lane - Vocal Overdubs And Speech,Sgt. Pepper's Lonely Hearts Club Band (Super Deluxe Edition),8,0.7,0.879,0.143,0.393,25,0
+Penny Lane - Stereo Mix 2017,Sgt. Pepper's Lonely Hearts Club Band (Super Deluxe Edition),9,0.0644,0.617,0.577,0.627,42,0
+A Day In The Life - Take 1,Sgt. Pepper's Lonely Hearts Club Band (Super Deluxe Edition),10,0.922,0.508,0.311,0.2,27,0
+A Day In The Life - Take 2,Sgt. Pepper's Lonely Hearts Club Band (Super Deluxe Edition),11,0.905,0.5,0.205,0.171,25,0
+A Day In The Life - Orchestra Overdub,Sgt. Pepper's Lonely Hearts Club Band (Super Deluxe Edition),12,0.819,0.243,0.57,0.184,24,0
+"A Day In The Life - Hummed Last Chord / Takes 8, 9, 10 And 11",Sgt. Pepper's Lonely Hearts Club Band (Super Deluxe Edition),13,0.869,0.423,0.226,0.325,23,0
+A Day In The Life - The Last Chord,Sgt. Pepper's Lonely Hearts Club Band (Super Deluxe Edition),14,0.911,0.438,0.0124,0.137,24,0
+Sgt. Pepper's Lonely Hearts Club Band - Take 1 / Instrumental,Sgt. Pepper's Lonely Hearts Club Band (Super Deluxe Edition),15,0.717,0.695,0.747,0.141,24,0
+Sgt. Pepper's Lonely Hearts Club Band - Take 9 And Speech,Sgt. Pepper's Lonely Hearts Club Band (Super Deluxe Edition),16,0.352,0.597,0.66,0.556,27,0
+Good Morning Good Morning - Take 1 / Instrumental Breakdown,Sgt. Pepper's Lonely Hearts Club Band (Super Deluxe Edition),17,0.0275,0.762,0.582,0.0765,23,0
+Good Morning Good Morning - Take 8,Sgt. Pepper's Lonely Hearts Club Band (Super Deluxe Edition),18,0.0231,0.749,0.435,0.79,25,0
+Fixing A Hole - Take 1,Sgt. Pepper's Lonely Hearts Club Band (Super Deluxe Edition),1,0.177,0.572,0.409,0.632,23,0
+Fixing A Hole - Speech And Take 3,Sgt. Pepper's Lonely Hearts Club Band (Super Deluxe Edition),2,0.185,0.622,0.454,0.613,24,0
+Being For The Benefit Of Mr. Kite! - Speech From Before Take 1 / Take 4 And Speech At End,Sgt. Pepper's Lonely Hearts Club Band (Super Deluxe Edition),3,0.495,0.602,0.302,0.527,24,0
+Being For The Benefit Of Mr. Kite! - Take 7,Sgt. Pepper's Lonely Hearts Club Band (Super Deluxe Edition),4,0.606,0.6,0.326,0.574,22,0
+Lovely Rita - Speech And Take 9,Sgt. Pepper's Lonely Hearts Club Band (Super Deluxe Edition),5,0.384,0.671,0.645,0.653,25,0
+Lucy In The Sky With Diamonds - Take 1 And Speech At The End,Sgt. Pepper's Lonely Hearts Club Band (Super Deluxe Edition),6,0.724,0.46,0.297,0.337,23,0
+"Lucy In The Sky With Diamonds - Speech, False Start And Take 5",Sgt. Pepper's Lonely Hearts Club Band (Super Deluxe Edition),7,0.723,0.475,0.384,0.401,22,0
+Getting Better - Take 1 / Instrumental And Speech At The End,Sgt. Pepper's Lonely Hearts Club Band (Super Deluxe Edition),8,0.412,0.718,0.487,0.382,24,0
+Getting Better - Take 12,Sgt. Pepper's Lonely Hearts Club Band (Super Deluxe Edition),9,0.124,0.769,0.488,0.705,22,0
+Within You Without You - Take 1 / Indian Instruments,Sgt. Pepper's Lonely Hearts Club Band (Super Deluxe Edition),10,0.699,0.383,0.432,0.184,24,0
+Within You Without You - George Coaching The Musicians,Sgt. Pepper's Lonely Hearts Club Band (Super Deluxe Edition),11,0.828,0.36,0.313,0.315,21,0
+She's Leaving Home - Take 1 / Instrumental,Sgt. Pepper's Lonely Hearts Club Band (Super Deluxe Edition),12,0.931,0.442,0.0782,0.198,25,0
+She's Leaving Home - Take 6 / Instrumental,Sgt. Pepper's Lonely Hearts Club Band (Super Deluxe Edition),13,0.928,0.47,0.0693,0.285,22,0
+With A Little Help From My Friends - Take 1 / False Start And Take 2 / Instrumental,Sgt. Pepper's Lonely Hearts Club Band (Super Deluxe Edition),14,0.254,0.915,0.51,0.356,24,0
+Sgt. Pepper's Lonely Hearts Club Band (Reprise) - Speech And Take 8,Sgt. Pepper's Lonely Hearts Club Band (Super Deluxe Edition),15,0.268,0.787,0.762,0.679,24,0
+Sgt Pepper's Lonely Hearts Club Band,Sgt. Pepper's Lonely Hearts Club Band (Super Deluxe Edition),1,0.218,0.438,0.651,0.624,25,0
+With A Little Help From My Friends,Sgt. Pepper's Lonely Hearts Club Band (Super Deluxe Edition),2,0.294,0.705,0.427,0.827,25,0
+Lucy In The Sky With Diamonds,Sgt. Pepper's Lonely Hearts Club Band (Super Deluxe Edition),3,0.138,0.269,0.365,0.357,27,0
+Getting Better,Sgt. Pepper's Lonely Hearts Club Band (Super Deluxe Edition),4,0.131,0.59,0.444,0.718,39,0
+Taxman - Remastered 2009,Revolver (Remastered),1,0.0101,0.469,0.596,0.783,57,2
+Eleanor Rigby - Remastered 2009,Revolver (Remastered),2,0.936,0.581,0.28,0.813,67,2
+I'm Only Sleeping - Remastered 2009,Revolver (Remastered),3,0.21,0.494,0.47,0.698,58,2
+Love You To - Remastered 2009,Revolver (Remastered),4,0.7,0.391,0.593,0.707,51,2
+"Here, There And Everywhere - Remastered 2009",Revolver (Remastered),5,0.921,0.29,0.247,0.36,64,2
+Yellow Submarine - Remastered 2009,Revolver (Remastered),6,0.531,0.604,0.549,0.696,59,2
+She Said She Said - Remastered 2009,Revolver (Remastered),7,0.103,0.329,0.678,0.672,53,2
+Good Day Sunshine - Remastered 2009,Revolver (Remastered),8,0.719,0.77,0.496,0.571,57,2
+And Your Bird Can Sing - Remastered 2009,Revolver (Remastered),9,0.0067,0.555,0.65,0.966,55,2
+For No One - Remastered 2009,Revolver (Remastered),10,0.783,0.483,0.351,0.713,63,2
+Doctor Robert - Remastered 2009,Revolver (Remastered),11,0.164,0.394,0.64,0.574,50,2
+I Want To Tell You - Remastered 2009,Revolver (Remastered),12,0.182,0.493,0.525,0.449,50,2
+Got To Get You Into My Life - Remastered 2009,Revolver (Remastered),13,0.42,0.521,0.524,0.711,57,2
+Tomorrow Never Knows - Remastered 2009,Revolver (Remastered),14,8.4e-05,0.38,0.829,0.0534,56,2
+Drive My Car - Remastered 2009,Rubber Soul (Remastered),1,0.0173,0.754,0.571,0.82,64,2
+Norwegian Wood (This Bird Has Flown) - Remastered 2009,Rubber Soul (Remastered),2,0.183,0.425,0.369,0.65,70,2
+You Won't See Me - Remastered 2009,Rubber Soul (Remastered),3,0.136,0.488,0.539,0.473,54,2
+Nowhere Man - Remastered 2009,Rubber Soul (Remastered),4,0.00797,0.534,0.624,0.687,63,2
+Think For Yourself - Remastered 2009,Rubber Soul (Remastered),5,0.0124,0.529,0.567,0.799,51,2
+The Word - Remastered 2009,Rubber Soul (Remastered),6,0.00682,0.59,0.641,0.792,50,2
+Michelle - Remastered 2009,Rubber Soul (Remastered),7,0.652,0.578,0.29,0.666,66,2
+What Goes On - Remastered 2009,Rubber Soul (Remastered),8,0.0168,0.67,0.776,0.765,50,2
+Girl - Remastered 2009,Rubber Soul (Remastered),9,0.587,0.699,0.294,0.893,59,2
+I'm Looking Through You - Remastered 2009,Rubber Soul (Remastered),10,0.00772,0.667,0.498,0.774,56,2
+In My Life - Remastered 2009,Rubber Soul (Remastered),11,0.449,0.688,0.435,0.435,73,2
+Wait - Remastered 2009,Rubber Soul (Remastered),12,0.0175,0.552,0.487,0.657,51,2
+If I Needed Someone - Remastered 2009,Rubber Soul (Remastered),13,0.00748,0.492,0.755,0.796,52,2
+Run For Your Life - Remastered 2009,Rubber Soul (Remastered),14,0.0103,0.563,0.705,0.822,52,2
+Help! - Remastered 2009,Help! (Remastered),1,0.188,0.534,0.725,0.763,70,2
+The Night Before - Remastered 2009,Help! (Remastered),2,0.0537,0.461,0.762,0.632,52,2
+You've Got To Hide Your Love Away - Remastered 2009,Help! (Remastered),3,0.207,0.398,0.392,0.378,66,2
+I Need You - Remastered 2009,Help! (Remastered),4,0.277,0.601,0.489,0.638,52,2
+Another Girl - Remastered 2009,Help! (Remastered),5,0.238,0.516,0.638,0.822,47,2
+You're Going To Lose That Girl - Remastered 2009,Help! (Remastered),6,0.346,0.533,0.66,0.818,52,2
+Ticket To Ride - Remastered 2009,Help! (Remastered),7,0.0457,0.519,0.85,0.749,64,2
+Act Naturally - Remastered 2009,Help! (Remastered),8,0.366,0.702,0.447,0.944,47,2
+It's Only Love - Remastered 2009,Help! (Remastered),9,0.22,0.629,0.551,0.685,50,2
+You Like Me Too Much - Remastered 2009,Help! (Remastered),10,0.415,0.555,0.57,0.899,45,2
+Tell Me What You See - Remastered 2009,Help! (Remastered),11,0.061,0.592,0.796,0.7,45,2
+I've Just Seen A Face - Remastered 2009,Help! (Remastered),12,0.723,0.647,0.56,0.913,60,2
+Yesterday - Remastered 2009,Help! (Remastered),13,0.879,0.332,0.179,0.315,75,2
+Dizzy Miss Lizzy - Remastered 2009,Help! (Remastered),14,0.116,0.373,0.934,0.918,45,2
+No Reply - Remastered 2009,Beatles For Sale (Remastered),1,0.67,0.718,0.593,0.869,51,2
+I'm A Loser - Remastered 2009,Beatles For Sale (Remastered),2,0.567,0.492,0.628,0.856,46,2
+Baby's In Black - Remastered 2009,Beatles For Sale (Remastered),3,0.434,0.374,0.596,0.876,45,2
+Rock And Roll Music - Remastered 2009,Beatles For Sale (Remastered),4,0.566,0.457,0.917,0.965,51,2
+I'll Follow The Sun - Remastered 2009,Beatles For Sale (Remastered),5,0.789,0.689,0.313,0.625,61,2
+Mr Moonlight - Remastered 2009,Beatles For Sale (Remastered),6,0.796,0.631,0.424,0.589,44,2
+Kansas City / Hey-Hey-Hey-Hey - Medley / Remastered 2009,Beatles For Sale (Remastered),7,0.614,0.588,0.724,0.924,43,2
+Eight Days A Week - Remastered 2009,Beatles For Sale (Remastered),8,0.412,0.652,0.583,0.744,63,2
+Words Of Love - Remastered 2009,Beatles For Sale (Remastered),9,0.323,0.551,0.533,0.85,47,2
+Honey Don't - Remastered 2009,Beatles For Sale (Remastered),10,0.473,0.629,0.545,0.735,43,2
+Every Little Thing - Remastered 2009,Beatles For Sale (Remastered),11,0.488,0.74,0.49,0.678,44,2
+I Don't Want To Spoil The Party - Remastered 2009,Beatles For Sale (Remastered),12,0.451,0.533,0.668,0.889,43,2
+What You're Doing - Remastered 2009,Beatles For Sale (Remastered),13,0.301,0.695,0.53,0.825,43,2
+Everybody's Trying To Be My Baby - Remastered 2009,Beatles For Sale (Remastered),14,0.466,0.543,0.806,0.943,42,2
+A Hard Day's Night - Remastered 2009,A Hard Day's Night (Remastered),1,0.137,0.59,0.805,0.797,66,2
+I Should Have Known Better - Remastered 2009,A Hard Day's Night (Remastered),2,0.257,0.682,0.444,0.91,55,2
+If I Fell - Remastered 2009,A Hard Day's Night (Remastered),3,0.68,0.665,0.31,0.568,60,2
+I'm Happy Just To Dance With You - Remastered 2009,A Hard Day's Night (Remastered),4,0.138,0.658,0.537,0.887,53,2
+And I Love Her - Remastered 2009,A Hard Day's Night (Remastered),5,0.64,0.767,0.331,0.636,68,2
+Tell Me Why - Remastered 2009,A Hard Day's Night (Remastered),6,0.586,0.267,0.688,0.797,47,2
+Can't Buy Me Love - Remastered 2009,A Hard Day's Night (Remastered),7,0.283,0.483,0.677,0.842,64,2
+Any Time At All - Remastered 2009,A Hard Day's Night (Remastered),8,0.366,0.612,0.719,0.744,47,2
+I'll Cry Instead - Remastered 2009,A Hard Day's Night (Remastered),9,0.0917,0.643,0.73,0.96,44,2
+Things We Said Today - Remastered 2009,A Hard Day's Night (Remastered),10,0.239,0.551,0.575,0.516,51,2
+When I Get Home - Remastered 2009,A Hard Day's Night (Remastered),11,0.384,0.568,0.793,0.64,43,2
+You Can't Do That - Remastered 2009,A Hard Day's Night (Remastered),12,0.367,0.612,0.788,0.961,47,2
+I'll Be Back - Remastered 2009,A Hard Day's Night (Remastered),13,0.744,0.721,0.527,0.641,48,2
+It Won't Be Long - Remastered 2009,With The Beatles (Remastered),1,0.284,0.472,0.673,0.862,50,2
+All I've Got To Do - Remastered 2009,With The Beatles (Remastered),2,0.217,0.49,0.579,0.879,51,2
+All My Loving - Remastered 2009,With The Beatles (Remastered),3,0.207,0.416,0.563,0.9,67,2
+Don't Bother Me - Remastered 2009,With The Beatles (Remastered),4,0.554,0.371,0.724,0.916,49,2
+Little Child - Remastered 2009,With The Beatles (Remastered),5,0.292,0.526,0.858,0.886,42,2
+Till There Was You - Remastered 2009,With The Beatles (Remastered),6,0.79,0.727,0.338,0.646,61,2
+Please Mister Postman - Remastered 2009,With The Beatles (Remastered),7,0.675,0.552,0.644,0.961,54,2
+Roll Over Beethoven - Remastered 2009,With The Beatles (Remastered),8,0.289,0.351,0.749,0.967,52,2
+Hold Me Tight - Remastered 2009,With The Beatles (Remastered),9,0.664,0.54,0.744,0.963,46,2
+You Really Got A Hold On Me - Remastered 2009,With The Beatles (Remastered),10,0.525,0.373,0.388,0.687,51,2
+I Wanna Be Your Man - Remastered 2009,With The Beatles (Remastered),11,0.477,0.553,0.914,0.683,45,2
+Devil In Her Heart - Remastered 2009,With The Beatles (Remastered),12,0.227,0.618,0.622,0.966,46,2
+Not A Second Time - Remastered 2009,With The Beatles (Remastered),13,0.213,0.471,0.817,0.961,44,2
+Money (That's What I Want) - Remastered 2009,With The Beatles (Remastered),14,0.425,0.545,0.853,0.923,46,2
+I Saw Her Standing There - Remastered 2009,Please Please Me (Remastered),1,0.27,0.491,0.801,0.971,66,2
+Misery - Remastered 2009,Please Please Me (Remastered),2,0.707,0.591,0.605,0.882,49,2
+Anna (Go To Him) - Remastered 2009,Please Please Me (Remastered),3,0.635,0.608,0.565,0.835,55,2
+Chains - Remastered 2009,Please Please Me (Remastered),4,0.608,0.654,0.561,0.929,46,2
+Boys - Remastered 2009,Please Please Me (Remastered),5,0.607,0.402,0.86,0.822,47,2
+Ask Me Why - Remastered 2009,Please Please Me (Remastered),6,0.767,0.605,0.394,0.597,48,2
+Please Please Me - Remastered 2009,Please Please Me (Remastered),7,0.334,0.527,0.48,0.706,56,2
+Love Me Do - Remastered 2009,Please Please Me (Remastered),8,0.386,0.52,0.829,0.744,67,2
+P.S. I Love You - Remastered 2009,Please Please Me (Remastered),9,0.389,0.635,0.656,0.77,49,2
+Baby It's You - Remastered 2009,Please Please Me (Remastered),10,0.778,0.608,0.494,0.879,52,2
+Do You Want To Know A Secret - Remastered 2009,Please Please Me (Remastered),11,0.608,0.673,0.349,0.609,59,2
+A Taste Of Honey - Remastered 2009,Please Please Me (Remastered),12,0.698,0.42,0.372,0.412,46,2
+There's A Place - Remastered 2009,Please Please Me (Remastered),13,0.629,0.455,0.582,0.927,47,2
+Twist And Shout - Remastered 2009,Please Please Me (Remastered),14,0.641,0.482,0.849,0.937,74,2
